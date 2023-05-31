@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kodmo
+ *
+ */
+module park {
+}
